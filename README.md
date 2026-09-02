@@ -66,6 +66,7 @@ The project is designed for beginners and learners who want to build a strong fo
 - Multiplication
 - Division
 - Square root
+-Expotential Operations
 - Power operations
 - Statistical functions
 - Minimum and maximum values
