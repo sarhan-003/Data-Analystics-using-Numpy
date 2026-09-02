@@ -34,6 +34,7 @@ The project is designed for beginners and learners who want to build a strong fo
 - Arrays filled with zeros and ones
 - Arrays using ranges and sequences
 - Random number generation
+- Random Object used in arrays 
 
 ### 🔹 Data Types
 
